@@ -2,6 +2,9 @@
 
 A link to every Minecraft datapack I've made! (or, made public)
 
+[Vanity Armor](https://github.com/FancyPotatOS/VanityArmor)
+- Allows you to turn your armor pieces visually into another armor piece without losing any functionality (aside from turtle shells)
+
 [Village Names](https://github.com/FancyPotatOS/VillageNames)
 - Assigns groups of villagers a generated town name
 - This name displays on the subtitle when you approach the group
