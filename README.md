@@ -1,6 +1,6 @@
 # MinecraftDatapacks
 
-A link to every Minecraft datapack I've made!
+A link to every Minecraft datapack I've made! (or, made public)
 
 [Village Names](https://github.com/FancyPotatOS/VillageNames)
 - Assigns groups of villagers a generated town name
